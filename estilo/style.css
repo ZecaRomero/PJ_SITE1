@@ -18,7 +18,7 @@ body {
 
 #menu {
     background-color: #c5c5b2;
-    padding: 15px;
+    padding: 5px;
 }
 
 #conteudo {
@@ -37,4 +37,19 @@ a {
 
 .centralizar {
     text-align: center;
+}
+
+h1 {
+    color: #828271;
+    font: 1.2em;
+}
+
+#rodape{
+
+    text-align: center;
+
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
 }
